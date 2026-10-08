@@ -1,6 +1,6 @@
 # CSA-cpusim-
 CSA Assignment-1
-Practical - 1
+/n Practical - 1
 Create a Machine(Basic Computer Architecture)
 <img width="1920" height="1200" alt="Screenshot (51)" src="https://github.com/user-attachments/assets/09228542-8848-414a-983c-a5f24389f4f6" />
 <img width="1920" height="1200" alt="Screenshot (50)" src="https://github.com/user-attachments/assets/6b92d899-929b-44b5-968a-1c84b9fbaece" />
