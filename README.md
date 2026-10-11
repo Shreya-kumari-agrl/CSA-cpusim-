@@ -1,6 +1,6 @@
 # CSA-cpusim-
 CSA Assignment-1
-/n Practical - 1
+# Practical - 1
 Create a Machine(Basic Computer Architecture)
 <img width="1920" height="1200" alt="Screenshot (51)" src="https://github.com/user-attachments/assets/09228542-8848-414a-983c-a5f24389f4f6" />
 <img width="1920" height="1200" alt="Screenshot (50)" src="https://github.com/user-attachments/assets/6b92d899-929b-44b5-968a-1c84b9fbaece" />
@@ -53,4 +53,68 @@ Logical operations: AND, OR, NOT, XOR,NOR, NAND
 
 # PRACTICAL 6-
 Memory-reference instructions: ADD, LDA, STA.
+
+<img width="1920" height="1200" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/804d0351-a295-40ea-b47c-e4b9500cce4d" />
+<img width="1920" height="1200" alt="Screenshot (65)" src="https://github.com/user-attachments/assets/2eb22577-31a3-4388-87ba-58103e75e72f" />
+<img width="1920" height="1200" alt="Screenshot (66)" src="https://github.com/user-attachments/assets/677718d1-8742-4151-be31-b39634ba3b3d" />
+<img width="1920" height="1200" alt="Screenshot (68)" src="https://github.com/user-attachments/assets/725e2c4e-2635-4ec6-8842-f0347b4b28f9" />
+<img width="1920" height="1200" alt="Screenshot (67)" src="https://github.com/user-attachments/assets/585b09a7-1d04-43af-8a3e-3ad19cdb2c0f" />
+<img width="1920" height="1200" alt="Screenshot (69)" src="https://github.com/user-attachments/assets/4b76b513-a23b-4a00-94c2-8afe4c4e650c" />
+<img width="1920" height="1200" alt="Screenshot (70)" src="https://github.com/user-attachments/assets/12a884f2-07c9-4da9-8233-25a240ead298" />
+<img width="1920" height="1200" alt="Screenshot (80)" src="https://github.com/user-attachments/assets/2a04b47b-7f44-4d46-a8bc-5bf9fca05e75" />
+
+# PRACTICAL 7-
+Register-reference instructions: CLA, CMA, CME, HLT
+
+<img width="1920" height="1200" alt="Screenshot (81)" src="https://github.com/user-attachments/assets/66f0594a-5953-45f0-aa4f-6fcb87eac2cc" />
+<img width="1920" height="1200" alt="Screenshot (82)" src="https://github.com/user-attachments/assets/91d36b15-88f1-4038-b42c-e04bd0cd323d" />
+<img width="1920" height="1200" alt="Screenshot (83)" src="https://github.com/user-attachments/assets/0edc3d01-b3b9-4f9f-9343-84a3ecff0f68" />
+<img width="1920" height="1200" alt="Screenshot (84)" src="https://github.com/user-attachments/assets/b2162ae0-3888-4df4-b978-c57a8d4815ca" />
+<img width="1920" height="1200" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/54ec489b-3eed-42d2-a83c-9899e855d692" />
+<img width="1920" height="1200" alt="Screenshot (86)" src="https://github.com/user-attachments/assets/6979deb8-36bb-40b9-be94-1775c963478e" />
+
+# PRACTICAL 8-
+Register-reference instructions: INC, SPA, SNA, SZE
+
+<img width="1920" height="1200" alt="Screenshot (92)" src="https://github.com/user-attachments/assets/dc22e7ce-7744-49c0-b313-89fc823706e0" />
+<img width="1920" height="1200" alt="Screenshot (93)" src="https://github.com/user-attachments/assets/b77d6480-bb4a-4b7f-b846-bbd122e60449" />
+<img width="1920" height="1200" alt="Screenshot (94)" src="https://github.com/user-attachments/assets/0b87eec7-4ed5-40df-951e-2702f78aca4b" />
+<img width="1920" height="1200" alt="Screenshot (95)" src="https://github.com/user-attachments/assets/e8ac08d7-d38b-426a-87da-6b0da033997a" />
+<img width="1920" height="1200" alt="Screenshot (96)" src="https://github.com/user-attachments/assets/ca55d0d9-35c5-46a8-8125-6c212e919e00" />
+<img width="1920" height="1200" alt="Screenshot (97)" src="https://github.com/user-attachments/assets/a8546266-a24a-44ba-8f7f-962705514b4e" />
+<img width="1920" height="1200" alt="Screenshot (98)" src="https://github.com/user-attachments/assets/b869af7e-3da4-4ee4-98c2-259a81cad56c" />
+<img width="1920" height="1200" alt="Screenshot (99)" src="https://github.com/user-attachments/assets/4edd0d61-c6e5-42f3-8fae-09e9b72398c2" />
+
+# PRACTICAL 9-
+Register-reference instructions: CIR, CIL
+
+<img width="1920" height="1200" alt="Screenshot (100)" src="https://github.com/user-attachments/assets/9cf3971b-fa2e-4c9f-84e3-3299c98761f9" />
+<img width="1920" height="1200" alt="Screenshot (101)" src="https://github.com/user-attachments/assets/fdf19450-cca8-406b-80d6-2a74c6cffd4b" />
+<img width="1920" height="1200" alt="Screenshot (102)" src="https://github.com/user-attachments/assets/c6e16b97-c7ce-4d13-a5d8-e4bc71f96d73" />
+<img width="1920" height="1200" alt="Screenshot (103)" src="https://github.com/user-attachments/assets/0c202736-8e69-47bc-9d7e-c7f9934d4694" />
+<img width="1920" height="1200" alt="Screenshot (104)" src="https://github.com/user-attachments/assets/ccdbffaf-0a49-448d-b76a-7374e984e12c" />
+<img width="1920" height="1200" alt="Screenshot (105)" src="https://github.com/user-attachments/assets/a3cb13f3-fb5a-4457-b4c8-284e5066015c" />
+
+# PRACTICAL 10-
+Sum of integers until a negative number is read.
+
+<img width="1920" height="1200" alt="Screenshot (106)" src="https://github.com/user-attachments/assets/66d39d93-f5e3-4c98-a0f9-6ce60ee03e26" />
+<img width="1920" height="1200" alt="Screenshot (107)" src="https://github.com/user-attachments/assets/fa24ac92-72f4-49f8-b7d7-1971fe26251d" />
+<img width="1920" height="1200" alt="Screenshot (108)" src="https://github.com/user-attachments/assets/ca3d9ee2-c1ea-440b-ad70-1ab0ce354bdd" />
+<img width="1920" height="1200" alt="Screenshot (109)" src="https://github.com/user-attachments/assets/e5f3ccaf-2505-44f5-855a-fbdc47abb1c4" />
+<img width="1920" height="1200" alt="Screenshot (110)" src="https://github.com/user-attachments/assets/9f6a9a26-3e89-4725-ba20-b35809158c79" />
+<img width="1920" height="1200" alt="Screenshot (111)" src="https://github.com/user-attachments/assets/885b034b-5e24-4810-b31a-2c1d4d2e48dd" />
+<img width="1920" height="1200" alt="Screenshot (112)" src="https://github.com/user-attachments/assets/08ad23b6-d13e-47e2-8840-df6a564553a2" />
+
+# PRACTICAL 11-
+Sum of integers until zero is read.
+
+<img width="1920" height="1200" alt="Screenshot (113)" src="https://github.com/user-attachments/assets/2cdbae39-ab63-4805-967c-64dc2dd87573" />
+<img width="1920" height="1200" alt="Screenshot (114)" src="https://github.com/user-attachments/assets/4119c123-b1f7-4012-b602-0184d0e7e42d" />
+<img width="1920" height="1200" alt="Screenshot (115)" src="https://github.com/user-attachments/assets/b1d0bdaa-c379-4b91-814a-ee473428a2f5" />
+<img width="1920" height="1200" alt="Screenshot (116)" src="https://github.com/user-attachments/assets/5c65ece4-ef8c-4be0-93ef-fdab171588d7" />
+
+
+
+
 
